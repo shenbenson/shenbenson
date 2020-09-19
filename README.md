@@ -1,7 +1,7 @@
 <img alt="GIF" align="right" height="320px" src="https://github.com/shenbenson/shenbenson/blob/master/assets/programming.gif"/>
 
 ### 👋 Hey, I'm Yubin (or you can call me Benson)
-- 🌱 I’m currently a first year ECE student in University of Waterloo.
+- 🌱 I’m a first year ECE student in University of Waterloo.
 - 🖥️ I enjoy coding and video games!
 - 😄 My field of interest is AI, Web Dev, and Software Eng
 - ⚡ I like to play badminton and basketball
