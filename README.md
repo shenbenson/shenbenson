@@ -3,7 +3,7 @@
 ### 👋 Hey, I'm Yubin (or you can call me Benson)
 - 🌱 I’m a first year ECE student in University of Waterloo.
 - 🖥️ I enjoy coding and video games!
-- 😄 My field of interest is AI, Web Dev, and Software Eng.
+- 😄 My field of interest is Web Dev, AI, and Software Dev.
 - ⚡ I like to play badminton and basketball!
 
 ### ⌨️ Languages 
