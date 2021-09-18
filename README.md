@@ -1,4 +1,4 @@
-<img alt="GIF" align="right" height="320px" src="https://github.com/shenbenson/shenbenson/blob/master/assets/programming.gif"/>
+<img alt="GIF" align="right" height="250px" src="https://github.com/shenbenson/shenbenson/blob/master/assets/programming.gif"/>
 
 ### 👋 Hey, I'm Yubin (Benson)
 - 🌱 I’m a first year ECE student in University of Waterloo.
