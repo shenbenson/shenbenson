@@ -18,7 +18,7 @@
 
 ### 📫 Contact
 
-<a href="https://ybshen.tk" target="_blank"><img src="https://img.shields.io/badge/-My%20Website-red?logo=Internet%20Explorer&logoColor=white"></a> <a href="mailto:yubin.shen@uwaterloo.ca" target="_blank"><img src="https://img.shields.io/badge/-Yubin.Shen@uwaterloo.ca-yellow?logo=Minutemailer&logoColor=white"></a>
+<a href="https://ybshen.cf" target="_blank"><img src="https://img.shields.io/badge/-My%20Website-red?logo=Internet%20Explorer&logoColor=white"></a> <a href="mailto:yubin.shen@uwaterloo.ca" target="_blank"><img src="https://img.shields.io/badge/-Yubin.Shen@uwaterloo.ca-yellow?logo=Minutemailer&logoColor=white"></a>
 
 <!--
 **shenbenson/shenbenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
