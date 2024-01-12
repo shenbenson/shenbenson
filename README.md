@@ -2,9 +2,9 @@
 
 ### 👋 Hey, I'm Yubin (Benson)
 
--   🌱 I’m a third year ECE student in University of Waterloo.
+-   🌱 I’m a 4th year ECE student at the University of Waterloo.
 -   🖥️ I enjoy coding and video games!
--   😄 My fields of interest are Web Dev, Software Dev, and Machine Learning.
+-   😄 My fields of interest are Web Dev, Software Dev, and ML.
 -   ⚡ I like to play badminton and basketball!
 
 ### ⌨️ Languages
